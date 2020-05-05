@@ -14,3 +14,6 @@ https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdm
 2. Manually from source code:
 https://developer.chrome.com/extensions/getstarted#unpacked  
 Point to `/Extension` folder
+
+### Center a div
+https://stackoverflow.com/questions/42125775/reactjs-react-router-how-to-center-div
